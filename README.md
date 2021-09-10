@@ -1,5 +1,3 @@
-# hw-09
-
 # Notes 
 Please resort to [this folder](data) for two sets of data I used
 Please resort to [Rmd file](Airbnb-Comments-Sentimental-Analysis-and-Model.Rmd) for code  
